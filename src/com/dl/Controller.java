@@ -23,5 +23,6 @@ public class Controller extends HttpServlet {
         System.out.println(id+"     "+name);
         System.out.println("xxx");
         System.out.println("哈哈哈哈哈");
+        System.out.println("没有同步新版本，直接上传自己的代码");
     }
 }
