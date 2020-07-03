@@ -22,6 +22,6 @@ public class Controller extends HttpServlet {
         String name = req.getParameter("name");
         System.out.println(id+"     "+name);
         System.out.println("xxx");
-
+        System.out.println("哈哈哈哈哈");
     }
 }
